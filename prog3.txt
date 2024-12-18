@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Formatting tag demo</title>
+<body><b>Sumathi</b>
+<i><u>Reddy College,</u><br><b>Warangal</b></i><br>
+</body>
+</head>
+</html>
